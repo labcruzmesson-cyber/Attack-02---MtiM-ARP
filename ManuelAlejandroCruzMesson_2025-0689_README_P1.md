@@ -1,6 +1,4 @@
-# Attack-02---MtiM-ARP
-# Documentación del Laboratorio: Ataque Man-in-the-Middle (MitM) mediante ARP Spoofing
-
+# Attack-02-MtiM-ARP
 ## 1. Objetivo del Laboratorio
 El objetivo fundamental de este laboratorio es demostrar de forma práctica y controlada el mecanismo de un ataque de Hombre en el Medio (Man-in-the-Middle o MitM) mediante el envenenamiento de tablas ARP (ARP Spoofing).
 
